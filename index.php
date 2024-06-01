@@ -11,7 +11,7 @@ include 'functions.php';
 </head>
 <body>
     <?php renderNav(); ?>
-    <div class="container">
+    <div class="wrapper">
         <?php displayContent('
             <h1>Welcome to Game Shop</h1>
             <p>Your one-stop shop for the latest and greatest computer games.</p>

@@ -18,7 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <?php renderNav(); ?>
-    <div class="container">
+    <div class="wrapper">
         <?php displayContent('
             <h1>Contact Us</h1>
             <p>Have questions or feedback? Reach out to us!</p>

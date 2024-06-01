@@ -1,7 +1,7 @@
 <?php
 function renderNav() {
     echo '
-    <nav>
+    <nav class="navbar">
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
@@ -12,7 +12,7 @@ function renderNav() {
 
 function renderFooter() {
     echo '
-    <footer>
+    <footer class="footer">
         <p>&copy; ' . date("Y") . ' Game Shop. All rights reserved.</p>
     </footer>';
 }

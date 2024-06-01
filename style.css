@@ -34,9 +34,9 @@ body {
   color: black;
 }
 
-.container {
-  max-width: 960px;
-  margin: auto;
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
   padding: 20px;
   background: white;
 }
